@@ -4,7 +4,6 @@
 This is an AI based solver for the Link-a-Pix game!  
 To enjoy the real game click [here](https://www.conceptispuzzles.com/index.aspx?uri=puzzle/link-a-pix).
 
-
 ## The game
 * Link-a-Pix is a board game puzzle that form whimsical pixel-art pictures when solved.     
 
