@@ -1,5 +1,7 @@
 # Web-Information-Retrieval
 ![](cover_image.jpg)
+© www.ics.uci.edu/~djp3/classes/2009_01_02_INF141/.  All rights reserved
+
 
 This is an AI based solver for the Link-a-Pix game!  
 To enjoy the real game click [here](https://www.conceptispuzzles.com/index.aspx?uri=puzzle/link-a-pix).
