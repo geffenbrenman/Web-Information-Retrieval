@@ -3,10 +3,9 @@
 © [All rights reserved.](https://www.ics.uci.edu/~djp3/classes/2009_01_02_INF141/)
 
 
-This is an ongoing project as part of the course Web Information Retrieval <br>
-taught by Professor Sara Cohen. <br>
-This is a search engine for product reviews. <br>
-All datasets were taken from [Stanford Large Network Dataset Collection](http://snap.stanford.edu/data/index.html).
+* This was an ongoing project as part of the course Web Information Retrieval taught by Professor Sara Cohen. <br>
+* A search engine for product reviews. <br>
+* All datasets were taken from [Stanford Large Network Dataset Collection](http://snap.stanford.edu/data/index.html).
 
 ## Index Writer
 
