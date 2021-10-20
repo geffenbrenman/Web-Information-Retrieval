@@ -1,6 +1,6 @@
 # Web-Information-Retrieval
 ![](cover_image.jpg)
-© [All rights reserved.](www.ics.uci.edu/~djp3/classes/2009_01_02_INF141/)
+© [All rights reserved.](https://www.ics.uci.edu/~djp3/classes/2009_01_02_INF141/)
 
 
 This is an ongoing project as part of the course Web Information Retrieval <br>
