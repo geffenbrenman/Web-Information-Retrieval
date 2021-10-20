@@ -3,8 +3,9 @@
 © www.ics.uci.edu/~djp3/classes/2009_01_02_INF141/.  All rights reserved
 
 
-This is an AI based solver for the Link-a-Pix game!  
-To enjoy the real game click [here](https://www.conceptispuzzles.com/index.aspx?uri=puzzle/link-a-pix).
+This is an ongoing project as part of a course Web Information Retrieval taught by
+Professor Sara Cohen.
+All datasets were taken from [Stanford Large Network Dataset Collection](http://snap.stanford.edu/data/index.html).
 
 ## The game
 * Link-a-Pix is a board game puzzle that form whimsical pixel-art pictures when solved.     
