@@ -1,6 +1,6 @@
 # Web-Information-Retrieval
 ![](cover_image.jpg)
-© www.ics.uci.edu/~djp3/classes/2009_01_02_INF141/.  All rights reserved
+© [All rights reserved.](www.ics.uci.edu/~djp3/classes/2009_01_02_INF141/)
 
 
 This is an ongoing project as part of the course Web Information Retrieval <br>
@@ -17,7 +17,7 @@ the data into the index. <br/>
 This class also allows an index to be <br/>
 removed from disk by deleting all index files. <br/>
 
-### Steps of building an index ###
+### Steps of index building ###
 1. Traversing a directory of documents
 2. Reading each document and extracting all tokens
 3. Computing counts of tokens and documents
