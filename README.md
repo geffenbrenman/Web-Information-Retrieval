@@ -3,8 +3,7 @@
 © www.ics.uci.edu/~djp3/classes/2009_01_02_INF141/.  All rights reserved
 
 
-This is an ongoing project as part of a course Web Information Retrieval taught by
-Professor Sara Cohen.
+This is an ongoing project as part of the course Web Information Retrieval taught by Professor Sara Cohen.
 All datasets were taken from [Stanford Large Network Dataset Collection](http://snap.stanford.edu/data/index.html).
 
 ## The game
