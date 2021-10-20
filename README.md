@@ -19,8 +19,8 @@ All datasets were taken from [Stanford Large Network Dataset Collection](http://
 
 ## Index Reader
 
-After an index has been created on disk, the class IndexReader can be used
-to access many different types of information available in the index. 
-These operations are implemented in a manner that they are efficient even when the index contains huge 
+After an index has been created on disk, the class IndexReader can be used <br/>
+to access many different types of information available in the index. <br/>
+These operations are implemented in a manner that they are efficient even when the index contains huge <br/>
 amounts of data. 
 
