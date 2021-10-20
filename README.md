@@ -10,17 +10,32 @@ All datasets were taken from [Stanford Large Network Dataset Collection](http://
 
 ## Index Writer
 
-* Each product review have the same format.    
-  
-* The purpose is to reveal a hidden picture by linking the pairs and painting the paths so that    
-  the number of squares in the path, including the squares at the ends,     
-  equals the value of the numbers being linked together.    
+Given raw review data, this class creates an on disk index that will <br/>
+allow access later on. All data that will be used later on is written to disk in an <br/>
+index structure. Note that for this exercise, when loading <br/>
+the data into the index. <br/>
+This class also allows an index to be <br/>
+removed from disk by deleting all index files. <br/>
+
+### Steps of building an index ###
+1. Traversing a directory of documents
+2. Reading each document and extracting all tokens
+3. Computing counts of tokens and documents
+4. Building a dictionary of unique tokens in the corpus and their counts
+5. Writing to the disk a sorted dictionary
 
 
 ## Index Reader
 
 After an index has been created on disk, the class IndexReader can be used <br/>
 to access many different types of information available in the index. <br/>
-These operations are implemented in a manner that they are efficient even when the index contains huge <br/>
+The operations are implemented in a manner that they are efficient even when the index contains huge <br/>
 amounts of data. 
+
+
+## Review Search
+
+The goal is to search for reviews and for products, based on a specific context, <br/>
+and to return these results in ranked order. The implementation includes three different search <br/>
+methods, based on three different ranking functions: Vector Space Search, Language Model Search, Product Search.
 
