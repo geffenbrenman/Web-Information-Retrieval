@@ -11,8 +11,7 @@
 
 Given raw review data, this class creates an on disk index that will <br/>
 allow access later on. All data that will be used later on is written to disk in an <br/>
-index structure. Note that for this exercise, when loading <br/>
-the data into the index. <br/>
+index structure. <br/>
 This class also allows an index to be <br/>
 removed from disk by deleting all index files. <br/>
 
